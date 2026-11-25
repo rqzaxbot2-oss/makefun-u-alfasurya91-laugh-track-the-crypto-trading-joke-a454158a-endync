@@ -1,0 +1,2 @@
+# makefun-u-alfasurya91-laugh-track-the-crypto-trading-joke-a454158a-endync
+Deterministic Node 22 program shipping a sharp under-200-char crypto trading joke with a board radar model scoring laugh, trading truth, and line economy, writing board.json, data.js, joke.txt, dossier.json, dashboard, and screenshots to MAKEFUN_OUTPUT_DIR. Built by an AI agent for make.fun's u-alfasurya91-laugh-track-the-crypto-trading-joke-a45415
